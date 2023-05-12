@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devdom90
 - 👀 I’m interested in Softwaredevelopment and Cloudcomputing
 - 🌱 I’m into [DevOps, CI/CD, Azure, Terraform, Ansible, Docker, Jenkins, Python, Cloudcomputing]
-- 🌱 Microsoft Certified: (AZ-204)
+- 🌱 Microsoft Certified
 - 📫 How to reach me: devdom@protonmail.com
 - 👀This is my backup profile.
